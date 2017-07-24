@@ -3,7 +3,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <title>前端开发中文文档导航</title>
   <style>
-    li {
+    a {
       color: red;
     }
   </style>
@@ -84,19 +84,4 @@
   </ul>
 
   <small>本站只收录中文文档。</small>
-
-
-
-  <script src="https://hm.baidu.com/hm.js?447692399fa39ba6e874a06424e9c30c"></script><script>
-    var _hmt = _hmt || [];
-    (function() {
-      var hm = document.createElement("script");
-      hm.src = "https://hm.baidu.com/hm.js?447692399fa39ba6e874a06424e9c30c";
-      var s = document.getElementsByTagName("script")[0]; 
-      s.parentNode.insertBefore(hm, s);
-    })();
-  </script>
-
-
-
 </body></html>
