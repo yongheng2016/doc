@@ -2,6 +2,11 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <title>前端开发中文文档导航</title>
+  <style>
+    li {
+      color: red;
+    }
+  </style>
 </head>
 
 <body>
