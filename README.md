@@ -1,7 +1,4 @@
-<html lang="zh-Hans"><head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<body>
+
   <h1>参考手册</h1>
   <ul>
     <li>
@@ -75,5 +72,3 @@
     </li>
   </ul>
 
-  <small>本站只收录中文文档。</small>
-</body></html>
