@@ -35,6 +35,9 @@
     <li>
       RequireJS <a target="_blank" href="http://requirejs.cn/">中文文档</a>
     </li>
+    <li>
+      webpack <a target="_blank" href="https://doc.webpack-china.org/concepts/">中文文档</a>
+    </li>
   </ul>
   <h1>教程</h1>
   <ul>
